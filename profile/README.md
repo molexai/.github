@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/orgs/molexai"><img src="https://github.com/user-attachments/assets/7c2ed5a1-290d-4a25-b16d-c0e0e8ac952f"></a>
+  <a href="https://github.com/orgs/molexai"><img width=500 src="https://github.com/user-attachments/assets/7c2ed5a1-290d-4a25-b16d-c0e0e8ac952f"></a>
   <br/>
   <br/>
   <a href="https://github.com/orgs/molexai/repositories"><img src="https://github.com/user-attachments/assets/e4ef1a4c-cf63-4399-bd89-9f0bf0692956"></a>
